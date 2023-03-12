@@ -1,0 +1,152 @@
+.body1{
+    /* background-color: brown; */
+    height: 180vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-family: fa2;
+}
+.dash_container{
+    background: #525FE1;
+    height: 90%;
+    width: 90%;
+    border-radius: 60px;
+    margin-top: 1rem;
+    padding: 1rem;
+    display: flex;
+}
+.dash_container1{
+    margin-top: 4rem;
+    width: 10%;
+    height: 82%;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    text-align: center;
+
+}
+a{
+   text-decoration: none;
+   color: #FFFFFF ;
+    
+}
+.dash_container2{
+    background-color: #FFFFFF;
+    width: 90%;
+    height: 95%;
+    border-radius: 50px;
+    margin-top: 1rem;
+    display: flex;
+}
+.sub_dash1{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+.sub_dash2{
+    width: 50%;
+    height: 94%;
+    background: #F5F6FF;
+    border-radius: 50px 50px 50px 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-top: 2rem;
+    margin-right:1rem ;
+
+}
+.dash1{
+    margin-top: 1rem;
+    margin-left: 2rem;
+    width: 85%;
+    height: 15%;
+    /* background-color: #525FE1; */
+
+}
+.dash2{
+    width: 90%;
+    height: 26%;
+    background-color: #F5F6FF;
+    margin-left: 2rem;
+    border-radius: 1rem;
+
+}
+.dash3{
+    width: 90%;
+    height: 26%;
+    background-color:#F5F6FF;
+    margin-left: 2rem;
+    border-radius: 1rem;
+}
+.dash4{
+    width: 90%;
+    height: 26%;
+    background-color:#F5F6FF;
+    margin-left: 2rem;
+    border-radius: 1rem;
+
+}
+.dash21{
+    /* background-color: white; */
+    height: 48%;
+    width: 97%;
+    border-radius: 2rem;
+    margin-left: 0.5rem;
+    margin-top: 1rem;
+    display: flex;
+    gap: 1rem;
+
+}
+.dash22{
+    background-color: white;
+    height: 48%;
+    width: 97%;
+    border-radius: 2rem;
+    margin-left: 0.5rem
+}
+.dash211{
+    background-color: white;
+    width: 49%;
+    height: 100%;
+    border-radius: 2rem;
+}
+.dash212{
+    /* background-color:#F5F6FF    ; */
+    width: 49%;
+    height: 100%;
+    border-radius: 2rem;
+    display: grid;
+    grid-template-areas: "header header";
+    grid-column-gap: 1rem;
+    grid-row-gap: 1rem;
+}
+.sub1{
+    background-color: white;
+    grid-area: header;
+    border-radius: 2rem;
+}
+.sub2{
+    background-color: white;
+    border-radius: 1rem;
+}
+.sub3{
+        background-color: white;
+        border-radius: 1rem;
+}
+.sn{
+    display: flex;
+    justify-content: space-between;
+}
+.sn p{
+    margin-top: 0rem;
+}
+h3 input[ type="submit"]{
+    width: 6rem;
+    height: 10rem;
+    margin-top: 0rem;
+    height: 3rem;
+    margin-left: 1rem;
+}
